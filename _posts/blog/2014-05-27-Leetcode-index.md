@@ -5,9 +5,9 @@ description: My Leetcode notes from csdn blog
 category: blog
 ---
 
-You may also get the Leetcode notes index from [my csdn blog][csdn].
+You may get the Leetcode notes index `in details` from [my csdn blog][csdn]
 
-What's more, these codes could be viewed by [my github][github].
+What's more, these codes could be viewed by [my github][github]
 
 [1.Two Sum][1]
 
@@ -462,5 +462,5 @@ What's more, these codes could be viewed by [my github][github].
 [149]: http://blog.csdn.net/flyupliu/article/details/25566723
 [150]: http://blog.csdn.net/flyupliu/article/details/21173787
 [151]: http://blog.csdn.net/flyupliu/article/details/21170281
-[github]: https://github.com/kunth
+[github]: https://github.com/kunth/Leetcode
 [csdn]: http://blog.csdn.net/flyupliu/article/details/26824167
