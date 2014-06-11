@@ -5,7 +5,7 @@ description: 智力题
 category: blog
 ---
 
-以下从笔者的[github](https://github.com/kunth/CrackTheCodingInterview/blob/master/6.x-BrainTeaser.md)截取的，是对Cracking the Coding Interview中的第六章的题解。
+以下从笔者的[github](https://github.com/kunth/CrackTheCodingInterview/blob/master/6.x-BrainTeaser.md)中截取的，是对[Cracking the Coding Interviewi(5th edition)](http://book.douban.com/subject/10436668/)中的第六章的题解。
 
 有六题，都是面试中常见智力题。
 
