@@ -5,7 +5,7 @@ description: 智力题
 category: blog
 ---
 
-以下从笔者的[github](https://github.com/kunth/CrackTheCodingInterview/blob/master/6.x-BrainTeaser.md)中截取的，是对[Cracking the Coding Interviewi(5th edition)](http://book.douban.com/subject/10436668/)中的第六章的题解。
+以下从笔者的 [github](https://github.com/kunth/CrackTheCodingInterview/blob/master/6.x-BrainTeaser.md)中截取的，是对 [Cracking the Coding Interviewi(5th edition)](http://book.douban.com/subject/10436668/)中的第六章的题解。
 
 有六题，都是面试中常见智力题。
 
@@ -16,15 +16,12 @@ category: blog
 
 #### 6.1 solution
 Firstly, number the bottles as #1, #2, ..., #20
-
 Secondly, as there is only one bottle that is 0.1 gram heavier than others, we can pick out different pills in that rule:
 
 bottle #1, 1 pill
 
 bottle #2, 2 pills
-
 ...
-
 bottle #20, 20 pills
 
 Add all of them above, and substract (1+2+...+20) = 210, e.g. the result is 1.1, then is the bottle #11 that have 1.1 grams pills.
