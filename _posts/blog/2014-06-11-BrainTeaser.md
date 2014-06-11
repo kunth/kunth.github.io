@@ -5,9 +5,7 @@ description: 智力题
 category: blog
 ---
 
-以下从笔者的 [github](https://github.com/kunth/CrackTheCodingInterview/blob/master/6.x-BrainTeaser.md)中截取的，是对 [Cracking the Coding Interviewi(5th edition)](http://book.douban.com/subject/10436668/)中的第六章的题解。
-
-有六题，都是面试中常见智力题。
+以下从笔者的[github][1]中截取的，是对[Cracking the Coding Interviewi(5th edition)][2]中的第六章的题解。一共有六题，都是面试中常见智力题。
 
 ### 6.1
 > You have 20 bottles of pills. 19 bottles have 1.0 gram pills, but one has pills of weight 1.1 grams. Given a scale that provides an exact measurement, how would you find the heavy bottle? You can only use the scale once.
@@ -16,12 +14,15 @@ category: blog
 
 #### 6.1 solution
 Firstly, number the bottles as #1, #2, ..., #20
+
 Secondly, as there is only one bottle that is 0.1 gram heavier than others, we can pick out different pills in that rule:
 
 bottle #1, 1 pill
 
 bottle #2, 2 pills
+
 ...
+
 bottle #20, 20 pills
 
 Add all of them above, and substract (1+2+...+20) = 210, e.g. the result is 1.1, then is the bottle #11 that have 1.1 grams pills.
@@ -120,4 +121,5 @@ Firstly, fill 5-quart up. Then, pour 5-quart into 3-quart until it is full. At t
 
 最后提一下，这题和常见的N!中有多少个0的也有点联系，N!是从某个特殊的平方数入手的。什么？你没有见过N!中算0的个数的，那么我随便google一个出来了，[点此查看](http://blog.csdn.net/u013081425/article/details/19805923 "算N!中0的个数")
 
-
+[1](https://github.com/kunth/CrackTheCodingInterview/blob/master/6.x-BrainTeaser.md)
+[2](http://book.douban.com/subject/10436668/)
