@@ -9,6 +9,8 @@ You may get the Leetcode notes index `in details` from [my csdn blog][csdn]
 
 What's more, these codes could be viewed by [my github][github]
 
+Leetcode上90%的题都很经典，值得多做，但也有像valid number这样的鸡肋题目，之前在博客上给题目打过一些标签，两星和一星，现在重新做一遍，尽量把标签更新过来
+
 [1.Two Sum][1]
 
 [2.Median of Two Sorted Arrays][2]
@@ -225,7 +227,7 @@ What's more, these codes could be viewed by [my github][github]
 
 [108.Convert Sorted Array to Binary Search Tree][108]
 
-[109.Convert Sorted List to Binary Search Tree][109]
+[109.Convert Sorted List to Binary Search Tree][109] 容易出错
 
 [110.Balanced Binary Tree][110]
 
