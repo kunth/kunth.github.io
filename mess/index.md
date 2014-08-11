@@ -6,7 +6,7 @@ layout: home
     <div class="section">
         <ul class="artical-cate">
             <li><a href="/"><span>Blog</span></a></li>
-            <li class="on" style="text-align:center"><a href="/others"><span>mess</span></a></li>
+            <li class="on" style="text-align:center"><a href="/mess"><span>mess</span></a></li>
         </ul>
 
         <div class="cate-bar"><span id="cateBar"></span></div>
