@@ -9,10 +9,10 @@ layout: home
             <li class="on" style="text-align:center"><a href="/mess"><span>mess</span></a></li>
         </ul>
 
-        <div class="cate-bar"><span id="cateBar"></span></div>
+        <div class="cate-bar"><span id="cateBar">mess</span></div>
 
         <ul class="artical-list">
-        {% for post in site.categories.others %}
+        {% for post in site.categories.mess %}
             <li>
                 <h2>
                     <a href="{{ post.url }}">{{ post.title }}</a>

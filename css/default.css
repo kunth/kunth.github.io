@@ -86,7 +86,7 @@ pre ol{margin-left:25px;list-style-type:decimal;}
 .blog .aside{
     background-image:url(http://pic.rmzt.com/2012/10/06/ppbdxxjh1-1.jpg);
 }
-.others .aside{
+.mess .aside{
     background-image:url(http://desk.zol.com.cn/showpic/1280x800_35307_95.html);
 }
 .index-content .section { margin-left:20%; padding-top:80px; padding-right:15%; ;}
@@ -164,7 +164,7 @@ h3.about {color:#777;margin-top:20px;font-size:22px;margin-bottom:10px}
 
     .blog .aside,
     .project .aside,
-    .others .aside {display:none;background-image:none;}
+    .mess .aside {display:none;background-image:none;}
 }
 
 @media (max-width: 1020px){
