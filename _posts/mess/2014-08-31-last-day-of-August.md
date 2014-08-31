@@ -9,13 +9,10 @@ As I learned some skills about java and eclipse this summer, I suddenly found th
 
 For example, I used to write the '{' in the next line,
 `
-        for(String str : strs)
-        
-        {
-        
-            sort(str.begin(), str.end());
-            
-        }
+    for(String str : strs)
+    {
+        sort(str.begin(), str.end());
+    }
 `
 
 instead of
