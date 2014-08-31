@@ -5,7 +5,7 @@ description: I used to like August
 category: mess
 ---
 
-As I learned some skills about java and eclipse this summer, I suddenly found that the agreements in [LeetCode](https://oj.leetcode.com/problems/) have lots of similarities with eclipse.
+As I learned some skills about java and eclipse this summer, I suddenly found that the agreements in [LeetCode](https://oj.leetcode.com/problems/)have lots of similarities with eclipse.
 
 For example, I used to write the '{' in the next line,
 
