@@ -5,6 +5,8 @@ description: I used to like August
 category: mess
 ---
 
+Today is the last day of August, 2014. Previously I preferrd summer because I thought I had more clear heads in summer, and I did not like to wear too much clothes.
+
 As I learned some skills about java and eclipse this summer, I suddenly found that the agreements in [LeetCode](https://oj.leetcode.com/problems/)have lots of similarities with eclipse.
 
 For example, I used to write the '{' in the next line,
