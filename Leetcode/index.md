@@ -7,7 +7,7 @@ layout: home
         <ul class="artical-cate">
             <li><a href="/"><span>Blog</span></a></li>
             <li><a href="/"><span>mess</span></a></li>
-            <li class="on" style="text-align:center"><a href="/Leetcode"><span>Leetcode</span></a></li>
+            <li class="on" style="text-align:right"><a href="/Leetcode"><span>Leetcode</span></a></li>
         </ul>
 
         <div class="cate-bar"><span id="cateBar">Leetcode</span></div>
