@@ -9,20 +9,20 @@ As I learned some skills about java and eclipse this summer, I suddenly found th
 
 For example, I used to write the '{' in the next line,
 
-< `
+``` c++
     for(String str : strs)
     {
         sort(str.begin(), str.end());
     }
-  `
+```
 
 instead of
 
-`
+``` c++
     for(String str : strs) {
         sort(str.begin(), str.end());
     }
-`
+```
 
 In the latter way, Leetcode will automately generate a '{' for you when you entered a "enter".
 
