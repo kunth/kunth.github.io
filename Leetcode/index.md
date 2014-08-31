@@ -13,7 +13,7 @@ layout: home
         <div class="cate-bar"><span id="cateBar">Leetcode</span></div>
 
         <ul class="artical-list">
-        {% for post in site.categories.mess %}
+        {% for post in site.categories.Leetcode %}
             <li>
                 <h2>
                     <a href="{{ post.url }}">{{ post.title }}</a>
