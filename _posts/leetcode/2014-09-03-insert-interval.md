@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【Leetcode】insert-interval
+title: Leetcode insert-interval
 description: No more description
 category: Leetcode
 ---
