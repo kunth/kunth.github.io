@@ -1,11 +1,11 @@
 ---
 layout: post
-title: 【Leetcode】merge-intervals
+title: Leetcodemerge-intervals
 description: No more description
 category: Leetcode
 ---
 
-[merge-intervals](https://oj.leetcode.com/problems/merge-intervals/)
+*Subject* **[merge-intervals](https://oj.leetcode.com/problems/merge-intervals/)**
 
 > Given a collection of intervals, merge all overlapping intervals.
 
@@ -15,7 +15,7 @@ category: Leetcode
 
 > return `[1,6]`,`[8,10]`,`[15,18]`.
 
-**Solution**
+**Solution:**
 
 ```c++
 /**
