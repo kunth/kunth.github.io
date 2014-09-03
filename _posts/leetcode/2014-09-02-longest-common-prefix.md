@@ -1,14 +1,15 @@
 ---
 layout: post
-title: 【Leetcode】longest-common-prefix
+title: Leetcodelongest-common-prefix
 description: No more description
 category: Leetcode
 ---
 
-[longest-common-prefix](https://oj.leetcode.com/problems/longest-common-prefix/)
+*Subject* **[longest-common-prefix](https://oj.leetcode.com/problems/longest-common-prefix/)**
 
 > Write a function to find the longest common prefix string amongst an array of strings.
 
+*Solution:*
 
 ``` c++
 class Solution {
