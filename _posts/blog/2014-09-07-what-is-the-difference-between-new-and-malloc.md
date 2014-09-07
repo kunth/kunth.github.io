@@ -5,7 +5,7 @@ description: c++
 category: blog
 ---
 
-I don't know how many times I had search for **the difference between new and malloc** on the Internet, and the former several times I may use the Baidu. I also got lots of different descriptions about what's the difference between new and malloc, I got an answer which may not be complete and I forgot it, then I search for it again and got another answer about it, until I found the question answered by Bjarne Stroustrup,in the [link](http://www.stroustrup.com/bs_faq2.html#malloc) as follows:
+I don't know how many times I had search for **the difference between new and malloc** on the Internet, and the former several times I may use the Baidu. I also got lots of different descriptions about what's the difference between new and malloc, I got an answer which may not be complete and I forgot it, then I search for it again and got another answer about it, until I found the question answered by Bjarne Stroustrup,in the **[link](http://www.stroustrup.com/bs_faq2.html#malloc)** as follows:
 
 > malloc() is a function that takes a number (of bytes) as its argument; it returns a void* pointing to unitialized storage. new is an operator that takes a type and (optionally) a set of initializers for that type as its arguments; it returns a pointer to an (optionally) initialized object of its type. The difference is most obvious when you want to allocate an object of a user-defined type with non-trivial initialization semantics. Examples:
 
