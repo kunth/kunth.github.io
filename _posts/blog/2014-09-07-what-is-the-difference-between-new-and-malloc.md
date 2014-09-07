@@ -10,6 +10,7 @@ I don't know how many times I had search for **the difference between new and ma
 > malloc() is a function that takes a number (of bytes) as its argument; it returns a void* pointing to unitialized storage. new is an operator that takes a type and (optionally) a set of initializers for that type as its arguments; it returns a pointer to an (optionally) initialized object of its type. The difference is most obvious when you want to allocate an object of a user-defined type with non-trivial initialization semantics. Examples:
 
 ``` c++
+
 class Circle : public Shape {
 public:
 Cicle(Point c, int r);
@@ -42,6 +43,7 @@ X* px2 = new X[10];// allocate 10 default constructed Xs
 // ...
 }
 ```
+
 > Note that when you specify a initializer using the "(value)" notation, you get initialization with that value. Unfortunately, you cannot specify that for an array. Often, a vector is a better alternative to a free-store-allocated array (e.g., consider exception safety).
 Whenever you use malloc() you must consider initialization and convertion of the return pointer to a proper type. You will also have to consider if you got the number of bytes right for your use. There is no performance difference between malloc() and new when you take initialization into account.
 
