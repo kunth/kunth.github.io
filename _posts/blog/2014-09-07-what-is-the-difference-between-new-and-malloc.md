@@ -44,7 +44,9 @@ X* px2 = new X[10];// allocate 10 default constructed Xs
 ```
 > Note that when you specify a initializer using the "(value)" notation, you get initialization with that value. Unfortunately, you cannot specify that for an array. Often, a vector is a better alternative to a free-store-allocated array (e.g., consider exception safety).
 Whenever you use malloc() you must consider initialization and convertion of the return pointer to a proper type. You will also have to consider if you got the number of bytes right for your use. There is no performance difference between malloc() and new when you take initialization into account.
-malloc() reports memory exhaustion by returning 0. new reports allocation and initialization errors by throwing exceptions.
-Objects created by new are destroyed by delete. Areas of memory allocated by malloc() are deallocated by free().
+
+> malloc() reports memory exhaustion by returning 0. new reports allocation and initialization errors by throwing exceptions.
+
+> Objects created by new are destroyed by delete. Areas of memory allocated by malloc() are deallocated by free().
 
 I wonder why many people won't share this link to those guys who search for the difference between new and malloc, I suffered a lot from the questions answered in shabby Chinese.
