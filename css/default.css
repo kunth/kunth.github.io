@@ -84,13 +84,13 @@ pre ol{margin-left:25px;list-style-type:decimal;}
     background-position:50% 50%;
 }
 .blog .aside{
-    background-image:url(http://pic.rmzt.com/2012/10/06/ppbdxxjh1-1.jpg);
+    background-image:url(/images/ppb-studying.jpg);
 }
 .mess .aside{
-    background-image:url(http://www.deskcar.com/desktop/cartoon/japan/201418103829/10.jpg);
+    background-image:url(/images/ppb-training.jpg);
 }
 .leetcode .aside{
-    background-image:url(http://www.deskcar.com/desktop/cartoon/japan/201418103829/10.jpg);
+    background-image:url(/images/diligence.png);
 }
 .index-content .section { margin-left:20%; padding-top:80px; padding-right:15%; ;}
 
