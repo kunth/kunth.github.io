@@ -6,9 +6,11 @@ category: blog
 ---
 
 (1)
-int ival(1024); //direct-initialization 直接初始化
 
+``` c++
+int ival(1024); //direct-initialization 直接初始化
 int ival = 1024; //copy-initialization  拷贝初始化
+```
 
 (2)
 初始化不是赋值
@@ -21,10 +23,14 @@ c++中变量必须且仅能定义一次，而且在使用变量之前必须定�
 声明用于想程序表明变量的类型和名字。定义也是声明：当定义变量时，我们声明了它的类型和名字。
 
 可以使用extern关键字声明变量而不定义它。
+
 ``` c++
+
 extern int i; // declares but does not define i
 int i;        // declares and defines i
+
 ```
+
 extern声明不是定义，也不分配存储空间。事实上，它只是说明变量定义在程序的其他地方。
 
 定义只可以出现一次，而声明可以出现多次。
@@ -40,21 +46,27 @@ extern声明不是定义，也不分配存储空间。事实上，它只是说�
 a reference must be initialized, and the initalizer must be an object.
 
 (7)
+
 ``` c++
 double dval = 3.14
 const int &ri = dval;
 ```
+
 编译器把这些代码转换成如下形式的编码
+
 ``` c++
 int temp = dval;
 const int &ri = temp;
 ```
+
 (8)
 头文件用于声明而不是用于定义，以下语句不能放在头文件中
+
 ``` c++
 extern int ival = 1; //initializer
 double xxx; //no extern
 ```
+
 通常，头文件中只定义确实必要的东西
 
 (9)
@@ -65,10 +77,12 @@ getline(cin, line); getline 遇到换行符停止读入并返回，换行符不�
 
 (11)
 string对象赋值
+
 ``` c++
 string st1, st2 = "xxxxx";
 st1 = st2;
 ```
+
 先把st1占用的相关内存释放掉，然后再分配给st1足够存放st2副本的内存空间，最后把st2中所有字符复制到新分配的内存空间。
 
 (12)
