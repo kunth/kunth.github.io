@@ -6,6 +6,7 @@ category: blog
 ---
 
 (1)
+
 ``` c++
 int ival(1024); //direct-initialization 直接初始化
 int ival = 1024; //copy-initialization  拷贝初始化
@@ -96,7 +97,7 @@ vector是一个类模板(class template)
 除了下标，可以使用迭代器iterator访问vector元素。每个容器都定义了一个名为iterator的类型。迭代器可以解引用和自增(指向下一元素)。迭代器还可以做算术操作。iter + n, iter -n, iter2 - iter1
 
 (16)
-任何改变vector长度的操作都会使已存在的迭代器失效。如push\_back() 和 erase()
+**任何改变vector长度的操作都会使已存在的迭代器失效。如push\_back() 和 erase()**
 
 (17)
 取地址符只能用于左值，因为只有当变量用作左值时，才能取其地址。
