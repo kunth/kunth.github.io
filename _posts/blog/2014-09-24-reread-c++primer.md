@@ -6,7 +6,6 @@ category: blog
 ---
 
 (1)
-
 ``` c++
 int ival(1024); //direct-initialization 直接初始化
 int ival = 1024; //copy-initialization  拷贝初始化
@@ -25,7 +24,6 @@ c++中变量必须且仅能定义一次，而且在使用变量之前必须定�
 可以使用extern关键字声明变量而不定义它。
 
 ``` c++
-
 extern int i; // declares but does not define i
 int i;        // declares and defines i
 
