@@ -11,307 +11,309 @@ What's more, these codes could be viewed by [my github][github]
 
 Leetcode上90%的题都很经典，值得多做，但也有像valid number这样的鸡肋题目，之前在博客上给题目打过一些标签，两星和一星，现在重新做一遍，尽量把标签更新过来
 
-[1.Two Sum][1]
+**[1.Two Sum][1]**
 
-[2.Median of Two Sorted Arrays][2]
+**[2.Median of Two Sorted Arrays][2]**
 
-[3.Longest Substring Without Repeating Characters][3]
+**[3.Longest Substring Without Repeating Characters][3]**
 
-[4.Add Two Numbers][4]
+**[4.Add Two Numbers][4]**
 
-[5.Longest Palindromic Substring][5]
+**[5.Longest Palindromic Substring][5]**
 
-[6.ZigZag Conversion][6]
+**[6.ZigZag Conversion][6]**
 
-[7.Reverse Integer][7]
+**[7.Reverse Integer][7]**
 
-[8.String to Integer (atoi)][8]
+**[8.String to Integer (atoi)][8]**
 
-[9.Palindrome Number][9]
+**[9.Palindrome Number][9]**
 
-[10.Regular Expression Matching][10]
+**[10.Regular Expression Matching][10]**
 
-[11.Container With Most Water][11]
+**[11.Container With Most Water][11]**
 
-[12.Integer to Roman][12]
+**[12.Integer to Roman][12]**
 
-[13.Roman to Integer][13]
+**[13.Roman to Integer][13]**
 
-[14.Longest Common Prefix][14]
+**[14.Longest Common Prefix][14]**
 
-[15.3Sum][15]
+**[15.3Sum][15]**
 
-[16.3Sum Closest][16]
+**[16.3Sum Closest][16]**
 
-[17.4Sum][17]
+**[17.4Sum][17]**
 
-[18.Letter Combinations of a Phone Number][18]
+**[18.Letter Combinations of a Phone Number][18]**
 
-[19.Remove Nth Node From End of List][19]
+**[19.Remove Nth Node From End of List][19]**
 
-[20.Valid Parentheses][20]
+**[20.Valid Parentheses][20]**
 
-[21.Generate Parentheses][21]
+**[21.Generate Parentheses][21]**
 
-[22.Merge k Sorted Lists][22]
+**[22.Merge k Sorted Lists][22]**
 
-[23.Swap Nodes in Pairs][23]
+**[23.Swap Nodes in Pairs][23]**
 
-[24.Reverse Nodes in k-Group][24]
+**[24.Reverse Nodes in k-Group][24]**
 
-[25.Remove Duplicates from Sorted Array][25]
+**[25.Remove Duplicates from Sorted Array][25]**
 
-[26.Remove Element][26]
+**[26.Remove Element][26]**
 
-[27.Implement strStr()][27]
+**[27.Implement strStr()][27]**
 
-[28.Divide Two Integers][28]
+**[28.Divide Two Integers][28]**
 
-[29.Substring with Concatenation of All Words][29]
+**[29.Substring with Concatenation of All Words][29]**
 
-[30.Next Permutation][30]
+**[30.Next Permutation][30]**
 
-[31.Longest Valid Parentheses][31]
+**[31.Longest Valid Parentheses][31]**
 
-[32.Search in Rotated Sorted Array][32]
+**[32.Search in Rotated Sorted Array][32]**
 
-[33.Search for a Range][33]
+**[33.Search for a Range][33]**
 
-[34.Search Insert Position][34]
+**[34.Search Insert Position][34]**
 
-[35.Valid Sudoku][35]
+**[35.Valid Sudoku][35]**
 
-[36.Sudoku Solver][36]
+**[36.Sudoku Solver][36]**
 
-[37.Count and Say][37]
+**[37.Count and Say][37]**
 
-[38.Combination Sum][38]
+**[38.Combination Sum][38]**
 
-[39.Combination Sum II][39]
+**[39.Combination Sum II][39]**
 
-[40.First Missing Positive][40]
+**[40.First Missing Positive][40]**
 
-[41.Trapping Rain Water][41]
+**[41.Trapping Rain Water][41]**
 
-[42.Multiply Strings][42]
+**[42.Multiply Strings][42]**
 
-[43.Wildcard Matching][43]
+**[43.Wildcard Matching][43]**
 
-[44.Jump Game II][44]
+**[44.Jump Game II][44]**
 
-[45.Permutations][45]
+**[45.Permutations][45]**
 
-[46.Permutations II][46]
+**[46.Permutations II][46]**
 
-[47.Rotate Image][47]
+**[47.Rotate Image][47]**
 
-[48.Anagrams][48]
+**[48.Anagrams][48]**
 
-[49.Pow(xn)][49]
+**[49.Pow(xn)][49]**
 
-[50.N-Queens][50]
+**[50.N-Queens][50]**
 
-[51.N-Queens II][51]
+**[51.N-Queens II][51]**
 
-[52.Maximum Subarray][52]
+**[52.Maximum Subarray][52]**
 
-[53.Spiral Matrix][53]
+**[53.Spiral Matrix][53]**
 
-[54.Jump Game][54]
+**[54.Jump Game][54]**
 
-[55.Merge Intervals][55]
+**[55.Merge Intervals][55]**
 
-[56.Insert Interval][56]
+**[56.Insert Interval][56]**
 
-[57.Length of Last Word][57]
+**[57.Length of Last Word][57]**
 
-[58.Spiral Matrix II][58]
+**[58.Spiral Matrix II][58]**
 
-[59.Permutation Sequence][59]
+**[59.Permutation Sequence][59]**
 
-[60.Rotate List][60]
+**[60.Rotate List][60]**
 
-[61.Unique Paths][61]
+**[61.Unique Paths][61]**
 
-[62.Unique Paths II][62]
+**[62.Unique Paths II][62]**
 
-[63.Minimum Path Sum][63]
+**[63.Minimum Path Sum][63]**
 
-[64.Merge Two Sorted Lists][64]
+**[64.Merge Two Sorted Lists][64]**
 
-[65.Add Binary][65]
+**[65.Add Binary][65]**
 
-[66.Valid Number][66]
+**[66.Valid Number][66]**
 
-[67.Plus One][67]
+**[67.Plus One][67]**
 
-[68.Text Justification][68]
+**[68.Text Justification][68]**
 
-[69.Sqrt(x)][69]
+**[69.Sqrt(x)][69]**
 
-[70.Climbing Stairs][70]
+**[70.Climbing Stairs][70]**
 
-[71.Simplify Path][71]
+**[71.Simplify Path][71]**
 
-[72.Edit Distance][72]
+**[72.Edit Distance][72]**
 
-[73.Set Matrix Zeroes][73]
+**[73.Set Matrix Zeroes][73]**
 
-[74.Search a 2D Matrix][74]
+**[74.Search a 2D Matrix][74]**
 
-[75.Sort Colors][75]
+**[75.Sort Colors][75]**
 
-[76.Minimum Window Substring][76]
+**[76.Minimum Window Substring][76]**
 
-[77.Combinations][77]
+**[77.Combinations][77]**
 
-[78.Subsets][78]
+**[78.Subsets][78]**
 
-[79.Word Search][79]
+**[79.Word Search][79]**
 
-[80.Remove Duplicates from Sorted Array II][80]
+**[80.Remove Duplicates from Sorted Array II][80]**
 
-[81.Search in Rotated Sorted Array II][81]
+**[81.Search in Rotated Sorted Array II][81]**
 
-[82.Remove Duplicates from Sorted List][82]
+**[82.Remove Duplicates from Sorted List][82]**
 
-[83.Remove Duplicates from Sorted List II][83]
+**[83.Remove Duplicates from Sorted List II][83]**
 
-[84.Largest Rectangle in Histogram][84]
+**[84.Largest Rectangle in Histogram][84]**
 
-[85.Maximal Rectangle][85]
+**[85.Maximal Rectangle][85]**
 
-[86.Partition List][86]
+**[86.Partition List][86]**
 
-[87.Scramble String][87]
+**[87.Scramble String][87]**
 
-[88.Merge Sorted Array][88]
+**[88.Merge Sorted Array][88]**
 
-[89.Gray Code][89]
+**[89.Gray Code][89]**
 
-[90.Decode Ways][90]
+**[90.Decode Ways][90]**
 
-[91.Subsets II][91]
+**[91.Subsets II][91]**
 
-[92.Reverse Linked List II][92]
+**[92.Reverse Linked List II][92]**
 
-[93.Restore IP Addresses][93]
+**[93.Restore IP Addresses][93]**
 
-[94.Binary Tree Inorder Traversal][94]
+**[94.Binary Tree Inorder Traversal][94]**
 
-[95.Unique Binary Search Trees][95]
+**[95.Unique Binary Search Trees][95]**
 
-[96.Unique Binary Search Trees II][96]
+**[96.Unique Binary Search Trees II][96]**
 
-[97.Interleaving String][97]
+**[97.Interleaving String][97]**
 
-[98.Validate Binary Search Tree][98]
+**[98.Validate Binary Search Tree][98]**
 
-[99.Recover Binary Search Tree][99]
+**[99.Recover Binary Search Tree][99]**
 
-[100.Same Tree][100]
+**[100.Same Tree][100]**
 
-[101.Symmetric Tree][101]
+**[101.Symmetric Tree][101]**
 
-[102.Binary Tree Level Order Traversal][102]
+**[102.Binary Tree Level Order Traversal][102]**
 
-[103.Binary Tree Zigzag Level Order Traversal][103]
+**[103.Binary Tree Zigzag Level Order Traversal][103]**
 
-[104.Maximum Depth of Binary Tree][104]
+**[104.Maximum Depth of Binary Tree][104]**
 
-[105.Construct Binary Tree from Preorder and Inorder Traversal][105]
+**[105.Construct Binary Tree from Preorder and Inorder Traversal][105]**
 
-[106.Construct Binary Tree from Inorder and Postorder Traversal][106]
+**[106.Construct Binary Tree from Inorder and Postorder Traversal][106]**
 
-[107.Binary Tree Level Order Traversal II][107]
+**[107.Binary Tree Level Order Traversal II][107]**
 
-[108.Convert Sorted Array to Binary Search Tree][108]
+**[108.Convert Sorted Array to Binary Search Tree][108]**
 
-[109.Convert Sorted List to Binary Search Tree][109] 容易出错
+**[109.Convert Sorted List to Binary Search Tree][109] 容易出错**
 
-[110.Balanced Binary Tree][110]
+**[110.Balanced Binary Tree][110]**
 
-[111.Minimum Depth of Binary Tree][111]
+**[111.Minimum Depth of Binary Tree][111]**
 
-[112.Path Sum][112]
+**[112.Path Sum][112]**
 
-[113.Path Sum II][113]
+**[113.Path Sum II][113]**
 
-[114.Flatten Binary Tree to Linked List][114]
+**[114.Flatten Binary Tree to Linked List][114]**
 
-[115.Distinct Subsequences][115]
+**[115.Distinct Subsequences][115]**
 
-[116.Populating Next Right Pointers in Each Node][116]
+**[116.Populating Next Right Pointers in Each Node][116]**
 
-[117.Populating Next Right Pointers in Each Node II][117]
+**[117.Populating Next Right Pointers in Each Node II][117]**
 
-[118.Pascal's Triangle][118]
+**[118.Pascal's Triangle][118]**
 
-[119.Pascal's Triangle II][119]
+**[119.Pascal's Triangle II][119]**
 
-[120.Triangle][120]
+**[120.Triangle][120]**
 
-[121.Best Time to Buy and Sell Stock][121]
+**[121.Best Time to Buy and Sell Stock][121]**
 
-[122.Best Time to Buy and Sell Stock II][122]
+**[122.Best Time to Buy and Sell Stock II][122]**
 
-[123.Best Time to Buy and Sell Stock III][123]
+**[123.Best Time to Buy and Sell Stock III][123]**
 
-[124.Binary Tree Maximum Path Sum][124]
+**[124.Binary Tree Maximum Path Sum][124]**
 
-[125.Valid Palindrome][125]
+**[125.Valid Palindrome][125]**
 
-[126.Word Ladder][126]
+**[126.Word Ladder][126]**
 
-[127.Word Ladder II][127]
+**[127.Word Ladder II][127]**
 
-[128.Longest Consecutive Sequence][128]
+**[128.Longest Consecutive Sequence][128]**
 
-[129.Sum Root to Leaf Numbers][129]
+**[129.Sum Root to Leaf Numbers][129]**
 
-[130.Surrounded Regions][130]
+**[130.Surrounded Regions][130]**
 
-[131.Palindrome Partitioning][131]
+**[131.Palindrome Partitioning][131]**
 
-[132.Palindrome Partitioning II][132]
+**[132.Palindrome Partitioning II][132]**
 
-[133.Clone Graph][133]
+**[133.Clone Graph][133]**
 
-[134.Gas Station][134]
+**[134.Gas Station][134]**
 
-[135.Candy][135]
+**[135.Candy][135]**
 
-[136.Single Number][136]
+**[136.Single Number][136]**
 
-[137.Single Number II][137]
+**[137.Single Number II][137]**
 
-[138.Copy List with Random Pointer][138]
+**[138.Copy List with Random Pointer][138]**
 
-[139.Word Break][139]
+**[139.Word Break][139]**
 
-[140.Word Break II][140]
+**[140.Word Break II][140]**
 
-[141.Linked List Cycle][141]
+**[141.Linked List Cycle][141]**
 
-[142.Linked List Cycle II][142]
+**[142.Linked List Cycle II][142]**
 
-[143.Reorder List][143]
+**[143.Reorder List][143]**
 
-[144.Binary Tree Preorder Traversal][144]
+**[144.Binary Tree Preorder Traversal][144]**
 
-[145.Binary Tree Postorder Traversal][145]
+**[145.Binary Tree Postorder Traversal][145]**
 
-[146.LRU Cache][146]
+**[146.LRU Cache][146]**
 
-[147.Insertion Sort List][147]
+**[147.Insertion Sort List][147]**
 
-[148.Sort List][148]
+**[148.Sort List][148]**
 
-[149.Max Points on a Line][149]
+**[149.Max Points on a Line][149]**
 
-[150.Evaluate Reverse Polish Notation][150]
-[151.Reverse Words in a String][151]
-[152.Maximum Product Subarray][152]
+**[150.Evaluate Reverse Polish Notation][150]**
+
+**[151.Reverse Words in a String][151]**
+
+**[152.Maximum Product Subarray][152]**
 
 [1]: http://blog.csdn.net/flyupliu/article/details/22238237
 [2]: http://blog.csdn.net/flyupliu/article/details/25335561
