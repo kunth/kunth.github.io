@@ -56,29 +56,34 @@ layout: default
         <h2>Blog</h2>
         <ul class="artical-list">
         {% for post in site.categories.blog%}
-            <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+            <li id="posts"><a href="{{ post.url }}" onmouseover="mouseOver();" onmouseout="mouseOut();">{{ post.title }}</a></li>
         {% endfor %}
         </ul>
 
         <h2>Mess</h2>
         <ul class="artical-list">
         {% for post in site.categories.mess%}
-            <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+            <li id="posts"><a href="{{ post.url }}">{{ post.title }}</a></li>
         {% endfor %}
         </ul>
 
         <h2>Leetcode</h2>
         <ul class="artical-list">
         {% for post in site.categories.leetcode%}
-            <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+            <li id="posts"><a href="{{ post.url }}">{{ post.title }}</a></li>
         {% endfor %}
         </ul>
     </div>
 </div>
 
 <script src="/js/post.js" type="text/javascript">
-  function() {
-    $(this).html('loading...');
+  function mouseOver() {
+    var csstype = document.getElementById('posts').style;
+    csstype.color = "blue";
+  }
+  function mouseOut() {
+    var csstype = document.getElementById('posts').style;
+    csstype.color = "black";
   }
 </script>
 
