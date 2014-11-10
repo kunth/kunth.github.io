@@ -58,8 +58,8 @@ layout: default
         {% for post in site.categories.blog%}
             <li id="posts">
               <a href="{{ post.url }}"
-                onMouseOver="this.style.color='#1E90FF';this.textDecoration='none'"
-                onMouseOut="this.style.color='#000000';">
+                onMouseOver="this.style.color='#1E90FF';this.style.textDecoration='none';this.style.fontWeight='bold'"
+                onMouseOut="this.style.color='#000000';this.style.fontWeight='normal'">
                 {{ post.title }}
               </a>
             </li>
@@ -71,8 +71,8 @@ layout: default
         {% for post in site.categories.mess%}
             <li id="posts">
               <a href="{{ post.url }}"
-                onMouseOver="this.style.color='#1E90FF';this.textDecoration='none'"
-                onMouseOut="this.style.color='#000000';">
+                onMouseOver="this.style.color='#1E90FF';this.style.textDecoration='none';this.style.fontWeight='bold'"
+                onMouseOut="this.style.color='#000000';this.style.fontWeight='normal'">
                 {{ post.title }}
                </a>
             </li>
@@ -84,8 +84,8 @@ layout: default
         {% for post in site.categories.leetcode%}
             <li id="posts">
               <a href="{{ post.url }}"
-                onMouseOver="this.style.color='#1E90FF';this.textDecoration='none'"
-                onMouseOut="this.style.color='#000000';">
+                onMouseOver="this.style.color='#1E90FF';this.style.textDecoration='none';this.style.fontWeight='bold'"
+                onMouseOut="this.style.color='#000000';this.style.fontWeight='normal'">
                 {{ post.title }}
               </a>
             </li>
