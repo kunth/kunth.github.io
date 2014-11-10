@@ -56,7 +56,13 @@ layout: default
         <h2>Blog</h2>
         <ul class="artical-list">
         {% for post in site.categories.blog%}
-            <li id="posts"><a href="{{ post.url }}" onmouseover="mouseOver();" onmouseout="mouseOut();">{{ post.title }}</a></li>
+            <li id="posts">
+              <a href="{{ post.url }}"
+                onMouseOver="this.style.color='#8E6235';"
+                onMouseOut="this.style.color='black');">
+                {{ post.title }}
+              </a>
+            </li>
         {% endfor %}
         </ul>
 
