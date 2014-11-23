@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 实习经历（一）
+title: 实习经历(一)
 description: my intern experience(1)
 category: blog
 ---
