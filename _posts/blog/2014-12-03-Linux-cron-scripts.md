@@ -9,10 +9,10 @@ category: blog
 
 2. 内容为 
 
-''' shell
+``` shell 
 SHELL=/bin/bash
 */1 * * * * cd /home/fibonacci && echo 'xxx' >> crontxt.txt
-'''
+```
 
 （前5个*分别表示minute, hour, mday, month, wday）
 minute：代表一小时内的第几分，范围 0-59。 
