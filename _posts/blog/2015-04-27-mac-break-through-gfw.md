@@ -11,9 +11,9 @@ goagent根本装不了，百度上都是链接到google code，访问不了。
 
 后来选择shadowsocks，最终验证可用的是：
 
-http://www.weeiy.com/shadowsocks-free-vpn.html
+<a href="http://www.weeiy.com/shadowsocks-free-vpn.html">戳这里</a>
 
-非广告，需要加微信关注一下，这个是免费得。具体不贴出来了，码农可以研究一下。
+非广告，需要加微信关注一下，这个是免费的。具体不贴出来了，码农可以研究一下。windows和linux版本也可行。
 
 这个账号体验以后再写。
 
